@@ -81,7 +81,7 @@ body {
 .home {
   background-image: url(img/bg.jpg);
   background-size: cover;
-  min-height: 200vh;
+  min-height: 100vh;
   margin-top: -6rem;
   padding-top: 15rem;
   padding-bottom: 5rem;
@@ -178,6 +178,15 @@ body {
   font-size: 0.9rem;
   font-weight: 300;
 }
+
+/* .story {
+  background-image: url(img/bg.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  margin-top: -6rem;
+  padding-top: 15rem;
+  padding-bottom: 5rem;
+} */
 
 .story,
 .gallery,
